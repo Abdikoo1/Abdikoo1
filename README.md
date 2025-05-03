@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
 <!--
 **Abdikoo1/Abdikoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
